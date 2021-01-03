@@ -7,6 +7,7 @@ Si scriva una programma che analizzi il testo proposto, individuando tali sequen
     
     
 --Esempio--
+
 si abbia il seguente file:
         $lorem$ $ipsum$ dolor $sit amet$, consectetur adipiscing elit. Sed viverra
         porttitor diam id posuere. Pellentesque rhoncus vitae ex at consequat. Morbi
