@@ -4,11 +4,8 @@ Si sappia che il numero massimo di riferimenti possibili è 20.
 Si scriva una programma che analizzi il testo proposto, individuando tali sequenze, e assegnando ad ognuna di esse un indice progressivo. Nel far ciò, il programma deve riscrivere il testo su un secondo file sostituendo al riferimento incontrato l'indice ad esso assegnato racchiuso tra quadre, ossia nella forma [<indice>]. Si produca infine un terzo file contenente l'elenco di riferimenti affiancati dal rispettivo indice.
 
     Nota: i riferimenti possono essere composti da più parole, ma non sono mai spezzati su più righe.
-    
-    
-    --Esempio--
 
-si abbia il seguente file:
+se per esempio abbiamo il seguente file:
 
     $lorem$ $ipsum$ dolor $sit amet$, consectetur adipiscing elit. Sed viverra
     porttitor diam id posuere. Pellentesque rhoncus vitae ex at consequat. Morbi
