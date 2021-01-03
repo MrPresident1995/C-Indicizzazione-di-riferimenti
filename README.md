@@ -5,18 +5,19 @@ Si scriva una programma che analizzi il testo proposto, individuando tali sequen
 
     Nota: i riferimenti possono essere composti da più parole, ma non sono mai spezzati su più righe.
     
+    
 --Esempio--
 si abbia il seguente file:
-    $lorem$ $ipsum$ dolor $sit amet$, consectetur adipiscing elit. Sed viverra
-    porttitor diam id posuere. Pellentesque rhoncus vitae ex at consequat. Morbi
-    iaculis ut odio $sit amet$ venenatis. Donec quis lectus in diam pharetra
-    imperdiet et id $lorem$. In vel congue lectus. Maecenas aliquam quam quis
-    turpis consectetur accumsan. Ut id mauris lacinia, interdum mauris eu, mattis
-    odio. Nulla tempus in ligula $sit amet$ tincidunt. Donec dignissim neque
-    tempus, dapibus $tortor$ nec, sodales nisl. Suspendisse vel $tortor$ vitae lacus
-    tristique aliquam in volutpat lectus. Nullam at ultricies diam, nec elementum
-    erat. Cras egestas, quam a tincidunt dapibus, $ipsum$ tellus placerat $ipsum$,
-    et gravida tellus ligula quis ante.
+        $lorem$ $ipsum$ dolor $sit amet$, consectetur adipiscing elit. Sed viverra
+        porttitor diam id posuere. Pellentesque rhoncus vitae ex at consequat. Morbi
+        iaculis ut odio $sit amet$ venenatis. Donec quis lectus in diam pharetra
+        imperdiet et id $lorem$. In vel congue lectus. Maecenas aliquam quam quis
+        turpis consectetur accumsan. Ut id mauris lacinia, interdum mauris eu, mattis
+        odio. Nulla tempus in ligula $sit amet$ tincidunt. Donec dignissim neque
+        tempus, dapibus $tortor$ nec, sodales nisl. Suspendisse vel $tortor$ vitae lacus
+        tristique aliquam in volutpat lectus. Nullam at ultricies diam, nec elementum
+        erat. Cras egestas, quam a tincidunt dapibus, $ipsum$ tellus placerat $ipsum$,
+        et gravida tellus ligula quis ante.
 
 Il programma deve generare un nuovo file che rispetti il formato del precedente, come:
 [1] [2] dolor [3], consectetur adipiscing elit. Sed viverra
