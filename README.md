@@ -5,7 +5,7 @@ Si scriva una programma che analizzi il testo proposto, individuando tali sequen
 
     Nota: i riferimenti possono essere composti da più parole, ma non sono mai spezzati su più righe.
 
-se per esempio abbiamo il seguente file:
+Se per esempio abbiamo il seguente file:
 
     $lorem$ $ipsum$ dolor $sit amet$, consectetur adipiscing elit. Sed viverra
     porttitor diam id posuere. Pellentesque rhoncus vitae ex at consequat. Morbi
